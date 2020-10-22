@@ -1,0 +1,24 @@
+{
+  "name": "site-du-chef",
+  "version": "1.0.0",
+  "description": "début du site avec import sur github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shipix/site-du-chef.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shipix/site-du-chef/issues"
+  },
+  "homepage": "https://github.com/Shipix/site-du-chef#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
