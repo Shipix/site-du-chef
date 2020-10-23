@@ -1,0 +1,2 @@
+[1023/091444.263:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Shipi\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\044f8a88-9281-42d3-a106-bf350e9cdee9: Le chemin d’accès spécifié est introuvable. (0x3)
+[1023/091444.265:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)

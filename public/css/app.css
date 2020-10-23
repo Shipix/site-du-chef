@@ -16020,7 +16020,7 @@ readers do not read off random characters that represent icons */
 /*STYLE*/
 /*MODULES*/
 header {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../../public/img/banner1.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../../public/img/banner1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
